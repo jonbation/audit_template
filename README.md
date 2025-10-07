@@ -1,4 +1,4 @@
-# 🚀 Flutter AI Template with Qwen3 Integration
+# 🚀 Qwen3 Integration
 
 ### 🎨 **User Experience**
 - **Professional Splash Screen** with customizable branding
