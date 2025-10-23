@@ -1,4 +1,4 @@
-# 🚀 AuditTemplate Integration
+# 🚀 Audit Template Integration
 
 ### 🎨 **User Experience**
 - **Professional Splash Screen** with customizable branding
@@ -16,16 +16,6 @@
 - **Font size adjustment** for accessibility and user preference
 - **Account security** with password change and data management
 - **Preference persistence** across app sessions
-
-## 🚀 **Quick Start Guide**
-
-### **Prerequisites**
-- **Flutter SDK** 3.24.0 or higher
-- **Dart SDK** 3.5.0 or higher
-- **Android Studio** or **VS Code** with Flutter extensions
-- **Firebase Account** (free tier available)
-- **OpenRouter Account** for AI features (get $1 free credit)
-- **Git** for version control
 
 ### **⚡ 1. Clone the Repository**
 ```bash
@@ -93,3 +83,4 @@ flutter build apk --release
 # Build for iOS (macOS only)
 flutter build ios --release
 ```
+
