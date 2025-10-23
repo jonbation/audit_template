@@ -53,12 +53,7 @@ Follow our comprehensive [Firebase Setup Guide](docs/FIREBASE_AUTH_GUIDE.md):
 3. Download and place configuration files
 4. Enable Authentication and Firestore Database
 
-### **🤖 5. Configure AI (Optional but Recommended)**
-1. Sign up at [OpenRouter](https://openrouter.ai) (get $1 free credit)
-2. Get your API key (starts with `sk-or-v1-`)
-3. Add it to `lib/config/api_config.dart`
-
-### **🛒 6. Set Up RevenueCat (For In-App Purchases)**
+### **🛒 5. Set Up RevenueCat (For In-App Purchases)**
 1. **Quick Setup (Already Configured):**
    - RevenueCat API key is already added to the template
    - Demo mode works immediately without additional setup
@@ -69,7 +64,7 @@ Follow our comprehensive [Firebase Setup Guide](docs/FIREBASE_AUTH_GUIDE.md):
    - Follow our [RevenueCat Integration Guide](docs/REVENUECAT_INTEGRATION.md)
    - Configure your own products and pricing
 
-### **🚀 7. Run the App**
+### **🚀 6. Run the App**
 ```bash
 # Debug mode (for development)
 flutter run
