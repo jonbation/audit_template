@@ -4,9 +4,7 @@
 - **Professional Splash Screen** with customizable branding
 - **Interactive Onboarding** with smooth animations and engaging content
 - **Material Design 3** with light/dark theme support and custom colors
-- **Responsive Design** that adapts to all screen sizes (mobile, tablet, desktop)
-- **Enhanced Navigation** with 3-4 item bottom navigation for better balance
-- **Help & About Screen** with FAQ, features overview, and contact information
+
 
 
 ### 👤 **Profile & Settings**
@@ -58,11 +56,6 @@ Follow our comprehensive [Firebase Setup Guide](docs/FIREBASE_AUTH_GUIDE.md):
    - RevenueCat API key is already added to the template
    - Demo mode works immediately without additional setup
    - Navigate to Premium tab to test subscription UI
-
-2. **For Production (Optional):**
-   - Create your own [RevenueCat account](https://www.revenuecat.com)
-   - Follow our [RevenueCat Integration Guide](docs/REVENUECAT_INTEGRATION.md)
-   - Configure your own products and pricing
 
 ### **🚀 6. Run the App**
 ```bash
